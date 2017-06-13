@@ -14,7 +14,7 @@ if __name__ == "__main__":
     # In the block below, parameters have to be defined
     #---------------------------------------------------------------------------
     # input image dimensions:
-    img_height, img_width = 20,20
+    img_height, img_width = 220,220
     epochs = 10
     batch_size = 200
     train_data_dir = './FacenetDataset/trainFaces'
